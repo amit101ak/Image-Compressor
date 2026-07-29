@@ -1,0 +1,6 @@
+{
+  "name": "Image Compressor",
+  "description": "A client-side image and PDF compression tool featuring target file size (KB) matching, smart iterative quality adjustments, batch processing, before/after side-by-side comparison, and document PDF optimization.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
